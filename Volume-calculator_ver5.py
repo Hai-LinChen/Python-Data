@@ -85,5 +85,6 @@ def main():
     global calc_volume
     calc_volume = []
     load_data('lattice_data.txt')
+    print(cal_volume)
 
 main()
